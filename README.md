@@ -48,4 +48,6 @@ cd khaana-khazana
 - └── README.md        # Project documentation
 
 ```
+![image](https://github.com/user-attachments/assets/ec2d84f3-df64-4d34-8f0f-987dc4ce4d4c)
+
 ![image](https://github.com/user-attachments/assets/fa4bdb68-c9eb-4275-800d-2f9eb5722c85)
