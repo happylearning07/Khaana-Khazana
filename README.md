@@ -47,3 +47,5 @@ cd khaana-khazana
 - ├── script.js        # JavaScript logic and API handling
 - └── README.md        # Project documentation
 
+```
+![image](https://github.com/user-attachments/assets/fa4bdb68-c9eb-4275-800d-2f9eb5722c85)
