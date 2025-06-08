@@ -38,3 +38,12 @@ cd khaana-khazana
 
 # Open index.html in your browser or use Live Server extension in VS Code
 
+
+📁 Folder Structure
+- khaana-khazana/
+- │
+- ├── index.html       # Main HTML file
+- ├── style.css        # Styling
+- ├── script.js        # JavaScript logic and API handling
+- └── README.md        # Project documentation
+
